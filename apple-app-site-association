@@ -1,15 +1,14 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinks",
-				"paths": [ "*"]
-			},
-			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinksNew",
-				"paths": [ "*"]
-			}
-		]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "U8DVA2L62W.com.aixuehuisi.jdxk",
+                "paths": ["/jdxk/", "/jdxk/*"]
+            },{
+                "appID": "U8DVA2L62W.com.aixuehuisi.dkss",
+                "paths": ["/dkss/", "/dkss/*"]
+            }
+        ]
+    }
 }
